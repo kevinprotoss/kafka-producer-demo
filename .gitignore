@@ -1,0 +1,20 @@
+#
+# IntelliJ
+#
+*.iml
+.idea/*
+!.idea/runConfigurations/
+
+#
+# Visual Studio Code
+#
+.settings/
+.classpath
+.project
+.vscode/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
